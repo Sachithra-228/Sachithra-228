@@ -88,6 +88,13 @@ I'm **Sachithra**, an aspiring software engineer who loves building tech that ma
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachithra-228&theme=react-dark&bg_color=F3E5F5&color=7E57C2&line=9575CD&point=5E35B1&hide_border=true" width="100%" />
 </div>
 
+<!-- YouTube Channel Preview -->
+<div align="center" style="margin: 30px 0;">
+  <a href="https://www.youtube.com/@sachithra228" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
+    <p style="font-weight: bold; color: #7E57C2; margin-top: 5px;">Subscribe to my YouTube Channel</p>
+  </a>
+</div>
 
 
 <!-- Footer Banner -->
