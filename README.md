@@ -77,11 +77,18 @@ I'm **Sachithra**, an aspiring software engineer who loves building tech that ma
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachithra-228&theme=default&hide_border=true&background=F3E5F5&stroke=7E57C2&ring=9575CD&fire=7E57C2&currStreakLabel=512DA8&sideLabels=4A148C&currStreakNum=5E35B1&sideNums=4A148C&dates=7E57C2" width="90%" />
 </div>
 
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sachithra-228&label=Profile+Views&color=7E57C2&style=flat-square" alt="views"/>
   <img src="https://img.shields.io/github/followers/Sachithra-228?label=Followers&style=flat-square&color=9575CD" />
   <img src="https://img.shields.io/github/stars/Sachithra-228?label=Stars&style=flat-square&color=B39DDB" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachithra-228&theme=react-dark&bg_color=F3E5F5&color=7E57C2&line=9575CD&point=5E35B1&hide_border=true" width="100%" />
+</div>
+
+
 
 <!-- Footer Banner -->
 <div align="center">
