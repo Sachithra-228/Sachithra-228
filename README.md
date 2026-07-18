@@ -40,10 +40,33 @@
 I'm **Sachithra Wijesinghe**, a software engineering undergraduate and content creator from Sri Lanka. I build technology with purpose — from full-stack web platforms to Android apps — with a special focus on educational tools that help Sri Lankan students and job seekers, explained in Sinhala.
 
 - **Currently:** Software Engineering intern, building AI-driven applications
+- **Leading:** CEO of [Team SYNCODE](https://www.teamsyncode.com/), a software engineering studio based in Sri Lanka
 - **Learning:** AI integrations, interview simulation systems, and scalable full-stack architecture
 - **Goal:** Create meaningful educational tools that empower Sri Lankan students
 - **Philosophy:** Build with impact. Teach with heart.
 - **Open to:** Collaborations on real-world learning projects
+
+---
+
+## Team SYNCODE
+
+<div align="center">
+  <a href="https://www.teamsyncode.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Sachithra-228/Sachithra-228/main/assets/syncode-preview.png" width="92%" alt="SYNCODE — Software Engineering Studio, Sri Lanka" />
+  </a>
+</div>
+
+<br>
+
+As CEO of **SYNCODE**, I lead a team that engineers digital products from concept to deployment — websites, web apps, mobile apps, and e-commerce platforms — built with precision, performance, and purpose.
+
+<div align="center">
+  <strong>Have a project in mind? We would love to build it with you.</strong>
+  <br><br>
+  <a href="https://www.teamsyncode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_teamsyncode.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit teamsyncode.com" />
+  </a>
+</div>
 
 ---
 
