@@ -8,14 +8,26 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sachithra-228&label=Profile%20Views&color=B39DDB&style=for-the-badge" alt="profile views" />
-  <a href="https://new-portfolio-lime-six.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-9575CD?style=for-the-badge&logo=google-chrome&logoColor=fff" alt="website" />
+  <a href="https://sachithrawijesinghe-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-9575CD?style=for-the-badge&logo=google-chrome&logoColor=fff" alt="portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-5E35B1?style=for-the-badge&logo=linkedin&logoColor=fff" alt="linkedin" />
+  <a href="https://www.linkedin.com/in/sachithra-wijesinghe-5496a5270/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="linkedin" />
   </a>
   <a href="mailto:Wijesinghesachithra@gmail.com">
     <img src="https://img.shields.io/badge/Email-7E57C2?style=for-the-badge&logo=gmail&logoColor=fff" alt="email" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.youtube.com/@sachithra228" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=fff" alt="youtube" />
+  </a>
+  <a href="https://www.tiktok.com/@sachithra228" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=fff" alt="tiktok" />
+  </a>
+  <a href="https://www.facebook.com/sachithra.wijesinghe.77" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=fff" alt="facebook" />
   </a>
 </div>
 
@@ -25,13 +37,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I'm **Sachithra**, an aspiring software engineer who loves building tech that matters especially tools that help students and job seekers, all explained in Sinhala 🇱🇰.
+I'm **Sachithra Wijesinghe**, a software engineering undergraduate and content creator from Sri Lanka. I build technology with purpose — from full-stack web platforms to Android apps — with a special focus on educational tools that help Sri Lankan students and job seekers, explained in Sinhala.
 
--  **Currently:** Interning in Software Engineering, working with AI-driven apps  
--  **Learning:** AI integrations, interview simulations, and scalable full-stack apps  
--  **Goal:** Create meaningful educational tools that empower Sri Lankan students  
--  **Philosophy:** Build with impact. Teach with heart.  
--  **Let’s Connect:** I love collaborating on real-world learning projects!
+- **Currently:** Software Engineering intern, building AI-driven applications
+- **Learning:** AI integrations, interview simulation systems, and scalable full-stack architecture
+- **Goal:** Create meaningful educational tools that empower Sri Lankan students
+- **Philosophy:** Build with impact. Teach with heart.
+- **Open to:** Collaborations on real-world learning projects
 
 ---
 
