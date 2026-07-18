@@ -11,6 +11,9 @@
   <a href="https://new-portfolio-lime-six.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-9575CD?style=for-the-badge&logo=google-chrome&logoColor=fff" alt="website" />
   </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-5E35B1?style=for-the-badge&logo=linkedin&logoColor=fff" alt="linkedin" />
+  </a>
   <a href="mailto:Wijesinghesachithra@gmail.com">
     <img src="https://img.shields.io/badge/Email-7E57C2?style=for-the-badge&logo=gmail&logoColor=fff" alt="email" />
   </a>
@@ -34,28 +37,42 @@ I'm **Sachithra**, an aspiring software engineer who loves building tech that ma
 
 <br><br>
 
+## 🚀 Featured Projects
+
+<!-- TODO: replace these placeholder rows with your real best projects -->
+| Project | Description | Tech |
+|---------|-------------|------|
+| [ITSC SLIIT Website](https://github.com/Sachithra-228) | Official website for the IT Student Community of SLIIT, with a Supabase-backed admin dashboard | Next.js, Tailwind, Supabase |
+| [Project Two](https://github.com/Sachithra-228) | One-line description of what it does and who it helps | React, Node.js |
+| [Project Three](https://github.com/Sachithra-228) | One-line description of what it does and who it helps | Kotlin, Android |
+
+---
+
 <!-- Tech Stack Section -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
+
 <div align="center">
+  <h4>Frontend</h4>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+  <h4>Backend & Database</h4>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" />
+  <h4>Mobile</h4>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="android studio" />
+  <h4>Tools & Design</h4>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="illustrator" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="android studio" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" />
 </div>
 
 <br>
@@ -74,11 +91,22 @@ I'm **Sachithra**, an aspiring software engineer who loves building tech that ma
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachithra-228&theme=default&hide_border=true&background=F3E5F5&stroke=7E57C2&ring=9575CD&fire=7E57C2&currStreakLabel=512DA8&sideLabels=4A148C&currStreakNum=5E35B1&sideNums=4A148C&dates=7E57C2" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachithra-228&theme=react-dark&bg_color=F3E5F5&color=7E57C2&line=9575CD&point=5E35B1&hide_border=true" width="100%" />
 </div>
 
+<!-- 3D pixel-block contribution graph (generated daily by GitHub Actions) -->
+<h2 align="center">🧱 My Contributions in 3D</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachithra-228&theme=react-dark&bg_color=F3E5F5&color=7E57C2&line=9575CD&point=5E35B1&hide_border=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/Sachithra-228/Sachithra-228/main/profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D contribution graph" />
+</div>
+
+<!-- Snake animation (generated daily by GitHub Actions) -->
+<h2 align="center">🐍 Contribution Snake</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachithra-228/Sachithra-228/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Sachithra-228/Sachithra-228/output/github-snake.svg" alt="snake animation" width="100%" />
+  </picture>
 </div>
 
 <!-- YouTube Channel Preview -->
@@ -94,4 +122,3 @@ I'm **Sachithra**, an aspiring software engineer who loves building tech that ma
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F3E5F5,50:D1C4E9,100:B39DDB&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&animation=fadeIn&fontColor=4A148C" width="100%" alt="Footer"/>
 </div>
-
