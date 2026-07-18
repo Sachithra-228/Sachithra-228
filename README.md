@@ -79,17 +79,6 @@ I'm **Sachithra**, an aspiring software engineer who loves building tech that ma
 
 ## GitHub Analytics
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sachithra-228&show_icons=true&theme=graywhite&hide_border=true&icon_color=9575CD&title_color=512DA8&text_color=4A148C" height="180em" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachithra-228&layout=compact&theme=graywhite&hide_border=true&title_color=5E35B1&text_color=4A148C" height="180em" />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachithra-228&theme=react-dark&bg_color=F3E5F5&color=7E57C2&line=9575CD&point=5E35B1&hide_border=true" width="100%" />
 </div>
