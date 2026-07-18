@@ -39,7 +39,7 @@ I'm **Sachithra**, an aspiring software engineer who loves building tech that ma
 
 ## Featured Projects
 
-### 🌐 Web & Full-Stack
+###  Web & Full-Stack
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -52,14 +52,14 @@ I'm **Sachithra**, an aspiring software engineer who loves building tech that ma
 | [Wasantha Construction](https://github.com/Sachithra-228/wasantha-construction-website) | Responsive construction company website with service showcases | Next.js, TypeScript, Tailwind |
 | [Maison Ashri](https://github.com/Sachithra-228/maison-ashri-website) | Elegant brand website showcasing handcrafted products | HTML, CSS |
 
-### 🤖 AI & Testing
+###  AI & Testing
 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Phishing Detection AI](https://github.com/Sachithra-228/phishing-detection-ai) | AI-powered phishing email detection system using machine learning | Python, FastAPI, MongoDB, ML |
 | [Singlish Transliteration Test Suite](https://github.com/Sachithra-228/IT23152700-IT3040-Assignment1) | Automated test suite for evaluating a Singlish-to-Sinhala transliteration web app | Python, Automated Testing |
 
-### 📱 Mobile (Android)
+###  Mobile (Android)
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -68,7 +68,7 @@ I'm **Sachithra**, an aspiring software engineer who loves building tech that ma
 | [Luna PetCare](https://github.com/Sachithra-228/luna_petcare) | Pet care management app for tracking your pet's health & routines | Kotlin |
 | [Finance Tracker](https://github.com/Sachithra-228/Finance_Tracker) | Personal finance app for tracking income, expenses & budgets | Kotlin |
 
-### 🧩 Other Builds
+###  Other Builds
 
 | Project | Description | Tech |
 |---------|-------------|------|
