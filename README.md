@@ -37,19 +37,19 @@ I'm **Sachithra**, an aspiring software engineer who loves building tech that ma
 
 <br><br>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <!-- TODO: replace these placeholder rows with your real best projects -->
 | Project | Description | Tech |
 |---------|-------------|------|
 | [ITSC SLIIT Website](https://github.com/Sachithra-228) | Official website for the IT Student Community of SLIIT, with a Supabase-backed admin dashboard | Next.js, Tailwind, Supabase |
-| [Project Two](https://github.com/Sachithra-228) | One-line description of what it does and who it helps | React, Node.js |
+| [Rehob-EDM](https://github.com/Sachithra-228/rehob-edm-platform) | Premium Next.js website for REHOB, a Sri Lankan electronic music platform featuring EDM artists, events, community content, services, applications, and industry updates.
 | [Project Three](https://github.com/Sachithra-228) | One-line description of what it does and who it helps | Kotlin, Android |
 
 ---
 
 <!-- Tech Stack Section -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center"> Tech Stack & Tools</h2>
 
 <div align="center">
   <h4>Frontend</h4>
@@ -94,14 +94,7 @@ I'm **Sachithra**, an aspiring software engineer who loves building tech that ma
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachithra-228&theme=react-dark&bg_color=F3E5F5&color=7E57C2&line=9575CD&point=5E35B1&hide_border=true" width="100%" />
 </div>
 
-<!-- 3D pixel-block contribution graph (generated daily by GitHub Actions) -->
-<h2 align="center">🧱 My Contributions in 3D</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sachithra-228/Sachithra-228/main/profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D contribution graph" />
-</div>
-
 <!-- Snake animation (generated daily by GitHub Actions) -->
-<h2 align="center">🐍 Contribution Snake</h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachithra-228/Sachithra-228/output/github-snake-dark.svg" />
