@@ -39,12 +39,41 @@ I'm **Sachithra**, an aspiring software engineer who loves building tech that ma
 
 ## Featured Projects
 
-<!-- TODO: replace these placeholder rows with your real best projects -->
+### 🌐 Web & Full-Stack
+
 | Project | Description | Tech |
 |---------|-------------|------|
-| [ITSC SLIIT Website](https://github.com/Sachithra-228) | Official website for the IT Student Community of SLIIT, with a Supabase-backed admin dashboard | Next.js, Tailwind, Supabase |
-| [Rehob-EDM](https://github.com/Sachithra-228/rehob-edm-platform) | Premium Next.js website for REHOB, a Sri Lankan electronic music platform featuring EDM artists, events, community content, services, applications, and industry updates.
-| [Project Three](https://github.com/Sachithra-228) | One-line description of what it does and who it helps | Kotlin, Android |
+| [ITSC SLIIT Website](https://github.com/Sachithra-228/itsc-website-design) | Official website for the IT Student Community of SLIIT, with a Supabase-backed admin dashboard for events, gallery & committee | Next.js, TypeScript, Tailwind, Supabase |
+| [UniCare Connect](https://github.com/Sachithra-228/UniCare-Connect-ITPM) | Holistic student support platform — financial aid, career development, mentorship & wellness services for Sri Lankan university students | Next.js 14, MongoDB, Firebase Auth, Twilio |
+| [UniFlow — Smart Campus Hub](https://github.com/Sachithra-228/UniFlow) | Production-style full-stack system for campus users, resources & bookings with Google OAuth2 login | Java 17, Spring Boot, React, PostgreSQL |
+| [REHOB EDM Platform](https://github.com/Sachithra-228/rehob-edm-platform) | Premium website for a Sri Lankan electronic music platform | Next.js, TypeScript |
+| [Scroll Journey Portfolio](https://github.com/Sachithra-228/scroll-journey-portfolio) | Scroll-driven personal portfolio with smooth animated storytelling | Next.js, GSAP, Framer Motion |
+| [Amara Construction](https://github.com/Sachithra-228/amara-construction-website) | Modern, responsive website for a house-construction company | Next.js, TypeScript, Tailwind |
+| [Wasantha Construction](https://github.com/Sachithra-228/wasantha-construction-website) | Responsive construction company website with service showcases | Next.js, TypeScript, Tailwind |
+| [Maison Ashri](https://github.com/Sachithra-228/maison-ashri-website) | Elegant brand website showcasing handcrafted products | HTML, CSS |
+
+### 🤖 AI & Testing
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Phishing Detection AI](https://github.com/Sachithra-228/phishing-detection-ai) | AI-powered phishing email detection system using machine learning | Python, FastAPI, MongoDB, ML |
+| [Singlish Transliteration Test Suite](https://github.com/Sachithra-228/IT23152700-IT3040-Assignment1) | Automated test suite for evaluating a Singlish-to-Sinhala transliteration web app | Python, Automated Testing |
+
+### 📱 Mobile (Android)
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Wellnest](https://github.com/Sachithra-228/Wellnest) | Wellness habit-tracking app with mood journal, activity tracking & Material Design 3 | Kotlin, Material 3 |
+| [AQUA SelfCare](https://github.com/Sachithra-228/AQUA---SelfCare) | Self-care companion app for building healthy daily routines | Kotlin |
+| [Luna PetCare](https://github.com/Sachithra-228/luna_petcare) | Pet care management app for tracking your pet's health & routines | Kotlin |
+| [Finance Tracker](https://github.com/Sachithra-228/Finance_Tracker) | Personal finance app for tracking income, expenses & budgets | Kotlin |
+
+### 🧩 Other Builds
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [The Gadget Hub](https://github.com/Sachithra-228/The-Gadget-Hub) | Online gadget store platform with containerized services | C#, TypeScript, Docker |
+| [HoloFit Trainer](https://github.com/Sachithra-228/HoloFit_Trainer) | Futuristic fitness trainer concept with a holographic-style UI | HTML, CSS |
 
 ---
 
